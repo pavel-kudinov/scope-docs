@@ -1,5 +1,7 @@
 # Scope. Документация
 
+__[sstgame.com](http://sstgame.com)__
+
 Intro
 
 - __[Почему Scope такой, какой он есть](intro.md)__

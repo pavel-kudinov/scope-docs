@@ -2,7 +2,7 @@
 
 Scope - GPGPU фрейморк, созданный для реализации конструктора симуляций, игры-песочницы, и эволюционного симулятора:
 
-Space Simulation Toolkit
+__Space Simulation Toolkit__
 
 Intro
 

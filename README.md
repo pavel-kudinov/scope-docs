@@ -4,8 +4,6 @@ Scope - GPGPU фрейморк, созданный для реализации �
 
 Space Simulation Toolkit
 
-сайт: __[sstgame.com](http://sstgame.com)__
-
 Intro
 
 - __[Почему Scope такой, какой он есть](intro.md)__
@@ -16,3 +14,5 @@ Intro
 - __[Синопсис](synopsis.md)__
 - __[Окружение](env.md)__
 
+Сайт
+- __[sstgame.com](http://sstgame.com)__

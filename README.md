@@ -14,5 +14,9 @@ Intro
 - __[Синопсис](synopsis.md)__
 - __[Окружение](env.md)__
 
+Примеры кода
+
+- __[Раундовая эволюция "идти вправо"](https://github.com/pavel-kudinov/cosmics-walk)__
+
 Сайт
 - __[sstgame.com](http://sstgame.com)__
